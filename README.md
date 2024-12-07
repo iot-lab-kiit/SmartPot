@@ -2,7 +2,7 @@
 
 **PlantPal** is an innovative, smart plant pot that brings your plant to life by displaying emotions based on its needs. Using data from moisture, temperature, and light sensors, **PlantPal** provides feedback on your plant's health, making it feel more like a pet. By showing emotions like **"Thirsty"** or **"Happy,"** it fosters an interactive and caring relationship between you and your plant.
 
-This project is designed to be simple and straightforward, creating a professional yet accessible way to enhance plant care using technology.
+This project is crafted with the intention of seamlessly blending technology with nature, offering an intuitive and thoughtful way to nurture and connect with plants, enhancing their well-being and bringing a touch of care into everyday life.
 
 ---
 
