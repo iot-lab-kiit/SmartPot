@@ -89,7 +89,7 @@ Here is a list of the essential components used in the **PlantPal** project:
 6. **Jumper Wires**  
    *Product Link*: [Jumper Wires](https://www.amazon.in/Aptechdeals-Jumper-Wires-Female-Breadboard/dp/B074JB6SX8/ref=sr_1_3?sr=8-3)
 
-> **Note**: You can purchase these components from any retailer at a cheaper price. The links provided are for reference.Also i'm using pico w here but you can simply use pico if you don't intend to add any wifi capabilities from you side since this version dosen't use the wifi capabiities.
+> **Note**: You can purchase these components from any retailer at a cheaper price. The links provided are for reference.Also i'm using pico w here but you can simply use pico if you don't intend to add any wifi capabilities from your side since this version dosen't use the wifi capabiities.
 
 ---
 
