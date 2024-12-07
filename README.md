@@ -96,7 +96,7 @@ A clear and simple circuit diagram of the **PlantPal** setup, showing how each s
 
 A reference pin table indicating the correct GPIO pins for each sensor and component on the **Raspberry Pi Pico**.
 
-<img src="Circuit%20Diagram/WhatsApp%20Image%202024-12-03%20at%2020.49.55_a2af6984.jpg" width="300" />
+<img src="Circuit%20Diagram/pin%20layout.jpg" width="300" />
 
 ---
 
