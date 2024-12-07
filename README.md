@@ -129,3 +129,8 @@ A breadboard-based model of the **PlantPal** project to help you visualize the s
 ### **License**
 
 This project is in its **Version 1.0** stage. Future versions will include additional features and improvements. License information will be added as the project evolves.
+
+
+### **Contributors**
+
+Special thanks to [@Ayushi Vardhan](https://github.com/Ayushi5027) for their contributions to this project!
