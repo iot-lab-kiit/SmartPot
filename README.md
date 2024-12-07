@@ -68,19 +68,28 @@ This project is designed to be simple and straightforward, creating a profession
 
 Here is a list of the essential components used in the **PlantPal** project:
 
-1. **LM35 Temperature Sensor**  
+1. **Raspberry Pico W**  
+   *Product Link*: [Raspberry Pico W](https://amazon.in/Raspberry-Support-RP2040-Dual-core-Processor/dp/B0DL4GLK79/ref=sr_1_3?sr=8-3)
+
+2. **LM35 Temperature Sensor**  
    *Product Link*: [LM35 Temperature Sensor](https://www.amazon.in/LM35DZ-LM35-Temperature-Sensor-Voltage/dp/B0B2WZDSDY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX)
 
-2. **LDR Light Sensor**  
+3. **LDR Light Sensor**  
    *Product Link*: [LDR Light Sensor](https://www.amazon.in/HemCorp-sensitive-Resistor-intensity-RASPBERRY/dp/B09NP5M331/ref=sr_1_10?s=industrial&sr=1-10)
 
-3. **Capacitive Soil Moisture Sensor**  
+4. **Capacitive Soil Moisture Sensor**  
    *Product Link*: [Capacitive Soil Moisture Sensor](https://www.amazon.in/RoboElectrixx-Capacitive-Moisture-Voltage-Anti-Corrosion/dp/B0CC8JHP19/ref=sr_1_2?s=industrial&sr=1-2)
 
-4. **1.8-inch Display**  
+5. **1.8-inch Display**  
    *Product Link*: [1.8-inch Display](https://www.amazon.in/Display-Module-Support-Hardware-128x160/dp/B0CG3K93DL/ref=sr_1_2?sr=8-2)
 
-> **Note**: You can purchase these components from any retailer at a cheaper price. The links provided are for reference.
+6. **Bread Board**  
+   *Product Link*: [Bread Board](https://www.amazon.in/Generic-Elementz-Solderless-Piecesb-Circuit/dp/B00MC1CCZQ/ref=sr_1_5?sr=8-5)
+
+6. **Jumper Wires**  
+   *Product Link*: [Jumper Wires](https://www.amazon.in/Aptechdeals-Jumper-Wires-Female-Breadboard/dp/B074JB6SX8/ref=sr_1_3?sr=8-3)
+
+> **Note**: You can purchase these components from any retailer at a cheaper price. The links provided are for reference.Also i'm using pico w here but you can simply use pico if you don't intend to add any wifi capabilities from you side since this version dosen't use the wifi capabiities.
 
 ---
 
