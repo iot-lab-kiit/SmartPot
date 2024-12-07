@@ -88,7 +88,7 @@ Here is a list of the essential components used in the **PlantPal** project:
 
 A clear and simple circuit diagram of the **PlantPal** setup, showing how each sensor and component is connected.
 
-![Circuit Diagram](path_to_circuit_diagram_image)
+ <img src="Circuit%20Diagram/WhatsApp%20Image%202024-12-03%20at%2020.22.39_c2fcb2b1.jpg" width="300" />
 
 ---
 
@@ -96,7 +96,7 @@ A clear and simple circuit diagram of the **PlantPal** setup, showing how each s
 
 A reference pin table indicating the correct GPIO pins for each sensor and component on the **Raspberry Pi Pico**.
 
-![Pin Table](path_to_pin_table_image)
+<img src="Circuit%20Diagram/WhatsApp%20Image%202024-12-03%20at%2020.49.55_a2af6984.jpg" width="300" />
 
 ---
 
@@ -104,7 +104,7 @@ A reference pin table indicating the correct GPIO pins for each sensor and compo
 
 A breadboard-based model of the **PlantPal** project to help you visualize the setup and connections.
 
-![Breadboard Model](path_to_breadboard_image)
+<img src="Circuit%20Diagram/represnetation%20of%20circuit%20in%20bread%20board.jpg" width="300" />
 
 ---
 
