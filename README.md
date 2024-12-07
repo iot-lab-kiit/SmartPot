@@ -13,32 +13,33 @@ This project is designed to be simple and straightforward, creating a profession
 1. **Thirsty**  
    *Emotion*: 💧 (Thirsty Emoji)  
    *Description*: The plant needs water.  
-   ![Thirsty Emoji](pictures%20of%20emotions/thirsty.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/thirsty.jpg" width="120" />
 
 2. **Hot**  
    *Emotion*: 🌞 (Red Sun Emoji)  
    *Description*: The plant is too hot and needs cooling.  
-   ![Hot Emoji](pictures%20of%20emotions/hot.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/hot.jpg" width="120" />
 
 3. **Cold**  
    *Emotion*: ❄️ (Freeze Emoji)  
    *Description*: The plant is too cold and needs warmth.  
-   ![Cold Emoji](pictures%20of%20emotions/cold.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/cold.jpg" width="120" />
 
 4. **Happy**  
    *Emotion*: 😊 (Happy Emoji)  
    *Description*: The plant is healthy and well-cared-for.  
-   ![Happy Emoji](pictures%20of%20emotions/happy.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/happy.jpg" width="120" />
 
 5. **Savory**  
    *Emotion*: 😋 (Savory Emoji)  
    *Description*: The plant is enjoying optimal conditions.  
-   ![Savory Emoji](pictures%20of%20emotions/savory.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/savory.jpg" width="120" />
 
 6. **Sleepy**  
    *Emotion*: 💤 (Sleep Emoji)  
    *Description*: The plant is resting or in low-energy mode.  
-   ![Sleepy Emoji](pictures%20of%20emotions/sleepy.jpg){: width="120" }
+   <img src="pictures%20of%20emotions/sleepy.jpg" width="120" />
+
 
 ---
 
