@@ -69,16 +69,16 @@ This project is designed to be simple and straightforward, creating a profession
 Here is a list of the essential components used in the **PlantPal** project:
 
 1. **LM35 Temperature Sensor**  
-   *Product Link*: [LM35 Temperature Sensor](product_link_here)
+   *Product Link*: [LM35 Temperature Sensor](https://www.amazon.in/LM35DZ-LM35-Temperature-Sensor-Voltage/dp/B0B2WZDSDY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX)
 
 2. **LDR Light Sensor**  
-   *Product Link*: [LDR Light Sensor](product_link_here)
+   *Product Link*: [LDR Light Sensor](https://www.amazon.in/HemCorp-sensitive-Resistor-intensity-RASPBERRY/dp/B09NP5M331/ref=sr_1_10?s=industrial&sr=1-10)
 
 3. **Capacitive Soil Moisture Sensor**  
-   *Product Link*: [Capacitive Soil Moisture Sensor](product_link_here)
+   *Product Link*: [Capacitive Soil Moisture Sensor](https://www.amazon.in/RoboElectrixx-Capacitive-Moisture-Voltage-Anti-Corrosion/dp/B0CC8JHP19/ref=sr_1_2?s=industrial&sr=1-2)
 
 4. **1.8-inch Display**  
-   *Product Link*: [1.8-inch Display](product_link_here)
+   *Product Link*: [1.8-inch Display](https://www.amazon.in/Display-Module-Support-Hardware-128x160/dp/B0CG3K93DL/ref=sr_1_2?sr=8-2)
 
 > **Note**: You can purchase these components from any retailer at a cheaper price. The links provided are for reference.
 
@@ -88,7 +88,7 @@ Here is a list of the essential components used in the **PlantPal** project:
 
 A clear and simple circuit diagram of the **PlantPal** setup, showing how each sensor and component is connected.
 
- <img src="Circuit%20Diagram/WhatsApp%20Image%202024-12-03%20at%2020.22.39_c2fcb2b1.jpg" width="300" />
+ <img src="Circuit%20Diagram/circuit%20diagram.jpg" width="300" />
 
 ---
 
